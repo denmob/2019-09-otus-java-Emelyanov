@@ -126,7 +126,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-        <com.google.guava.version>27.1-jre</com.google.guava.version>
+        <com.google.guava.version>29.0-jre</com.google.guava.version>
         <maven.assembly.plugin.version>3.1.1</maven.assembly.plugin.version>
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
         <commons-io.version>2.6</commons-io.version>
